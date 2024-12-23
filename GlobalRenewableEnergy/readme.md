@@ -2,4 +2,4 @@ This dataset provides information on global renewable energy usage by households
 
 It is a useful resource for understanding the trends in renewable energy adoption, analyzing the factors influencing energy usage, and exploring the relationship between socio-economic characteristics and energy consumption
 
-
+done with the help of https://www.kaggle.com/code/rohitkumar211987/global-renewable-energy-usage-prediction/notebook
